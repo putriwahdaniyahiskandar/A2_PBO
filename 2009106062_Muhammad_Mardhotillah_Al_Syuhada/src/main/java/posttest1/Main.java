@@ -21,7 +21,7 @@ static ArrayList<Integer> biaya = new ArrayList<Integer>();
     public static void main(String[] args) {
         // TODO code application logic here
         perbaikan.add("GantiHardisk");
-        biaya.add(625000);
+        
 home();
 }    
     static void home(){
