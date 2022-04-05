@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pembayaran;
+package posttest1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
